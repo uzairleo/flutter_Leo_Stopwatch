@@ -1,6 +1,8 @@
 # leo_stopwatch
 
-A new Flutter project.
+A simple stopWatch with dart math class
+
+![](stopwatch.gif)
 
 ## Getting Started
 
