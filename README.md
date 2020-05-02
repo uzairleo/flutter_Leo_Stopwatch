@@ -1,6 +1,6 @@
 # leo_stopwatch
 
-A simple stopWatch with dart math class
+ - A simple stopWatch with dart math class
 
 ![](stopwatch.gif)
 
